@@ -51,7 +51,7 @@ namespace Tabs.iOS
 			{
 				base.ViewDidLoad();
 
-				NavigationItem.Title = "News Feed";
+				NavigationItem.Title = "Notifications";
 				View.BackgroundColor = UIColor.Purple;
 			}
 		}
